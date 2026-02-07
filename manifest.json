@@ -1,0 +1,38 @@
+{
+  "format_version": 2,
+  "header": {
+      "description": "",
+      "name": "Ice Challenge",
+      "uuid": "ba0c16d3-c92c-45e0-8e04-9e62b0a6218c",
+      "version": [ 1, 0, 0],
+      "min_engine_version": [1, 21, 90]
+  },
+  "modules": [
+    {
+        "description": "",
+        "type": "data",
+        "uuid": "2331f754-7163-47df-94fa-77ea46e08509",
+        "version": [1, 0, 0]
+    },
+    {
+      "description": "",
+        "type": "script",
+        "uuid": "e62ff242-aba9-4ee6-a70a-cf25df1d3920",
+        "version": [1, 0, 0],
+        "entry": "scripts/main.js"
+    }
+  ],
+  "dependencies": [
+    {
+      "module_name":"@minecraft/server",
+      "version":"2.0.0"
+    },
+    {
+      "module_name": "@minecraft/server-ui",
+      "version": "2.0.0"
+    }
+ ],
+  "metadata": {
+    "product_type": "addon"
+  }
+}
