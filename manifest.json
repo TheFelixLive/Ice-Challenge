@@ -1,7 +1,7 @@
 {
   "format_version": 2,
   "header": {
-      "description": "",
+      "description": "This challenge will help you master the ice. Every time you sneak, a layer of ice spawns beneath you.",
       "name": "Ice Challenge",
       "uuid": "ba0c16d3-c92c-45e0-8e04-9e62b0a6218c",
       "version": [ 1, 0, 0],

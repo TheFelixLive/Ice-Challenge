@@ -2,7 +2,7 @@
 Comming Soon
 
 ## About
-Comming Soon
+This challenge will help you master the ice. Every time you sneak, a layer of ice spawns beneath you.
 
 # Installation
 > [!NOTE]

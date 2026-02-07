@@ -5,9 +5,9 @@ import { ActionFormData, ModalFormData, MessageFormData  } from "@minecraft/serv
 const version_info = {
   name: "Ice Challenge",
   version: "v.1.0.0",
-  build: "B001",
+  build: "B002",
   release_type: 0, // 0 = Development version (with debug); 1 = Beta version; 2 = Stable version
-  unix: 1770462446,
+  unix: 1770462656,
   uuid: "ba0c16d3-c92c-45e0-8e04-9e62b0a6218c",
   changelog: {
     // new_features
