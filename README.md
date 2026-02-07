@@ -1,5 +1,5 @@
 # Ice Challenge
-Comming Soon
+<img src="https://github.com/user-attachments/assets/903e9e20-a1bb-42d5-a62d-ed257313e68f" width="1920" height="auto" />
 
 ## About
 This challenge will help you master the ice. Every time you sneak, a layer of ice spawns beneath you.
